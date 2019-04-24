@@ -9,7 +9,7 @@ var fs = require('fs');
 var ConfigXmlHelper = require('./lib/configXmlHelper.js');
 
 module.exports = function(ctx) {
-  run(ctx);
+//   run(ctx);
 };
 
 /**
